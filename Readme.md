@@ -1,12 +1,15 @@
 ## @pacceqx
 # Pacce 2019
 
-## [Células]
+![](capa.jpg)
 
--[Música](celulas/musica/Readme.md#pacceqx)
--[Japones](celulas/japones/Readme.md#pacceqx)
+## Células
 
-## [Eventos]
+- [Música](celulas/musica/Readme.md#pacceqx)
+- [Japones](celulas/japones/Readme.md#pacceqx)
+
+## Eventos
+
 
 ## Formações/Interações/Reuniões
 
