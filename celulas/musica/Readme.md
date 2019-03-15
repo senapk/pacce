@@ -3,8 +3,9 @@
 
 Nosso objetivo é cillum nisi elit tempor do reprehenderit ullamco. Cupidatat sunt proident ea aliqua pariatur dolore elit sit exercitation elit ad. Irure ea mollit incididunt enim deserunt consectetur proident veniam mollit enim do aliquip. Est voluptate labore non non Lorem culpa nulla deserunt sint ad. Elit laborum labore id cupidatat. Id occaecat magna quis in fugiat sit ullamco culpa magna do aliquip laborum culpa esse.
 
-![](capa.jpg)
-
+![](capa.jpg|100x100)
+![](capa.jpg|width=100)
+![](capa.jpg|width=100)
 ## 12/03/19 Descobrindo o japonês
 
 Hoje Non magna velit laborum tempor aute occaecat duis proident aute reprehenderit amet. Sit quis proident commodo anim adipisicing. Est enim et ullamco officia sint et culpa. Labore irure nostrud eu nostrud irure proident ullamco ex minim voluptate.
