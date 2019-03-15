@@ -3,13 +3,14 @@
 
 Nosso objetivo é cillum nisi elit tempor do reprehenderit ullamco. Cupidatat sunt proident ea aliqua pariatur dolore elit sit exercitation elit ad. Irure ea mollit incididunt enim deserunt consectetur proident veniam mollit enim do aliquip. Est voluptate labore non non Lorem culpa nulla deserunt sint ad. Elit laborum labore id cupidatat. Id occaecat magna quis in fugiat sit ullamco culpa magna do aliquip laborum culpa esse.
 
-![](capa.jpg){:height="50%" width="50%"}
+
+<img src="capa.jpg" width="200"/>
 
 ## 12/03/19 Descobrindo o japonês
 
 Hoje Non magna velit laborum tempor aute occaecat duis proident aute reprehenderit amet. Sit quis proident commodo anim adipisicing. Est enim et ullamco officia sint et culpa. Labore irure nostrud eu nostrud irure proident ullamco ex minim voluptate.
 
-![](19-03-14_celula_musica.jpeg)
+<img src="19-03-14_celula_musica.jpeg" width="200"/>
 
 ## 15/03/19 Aprendendo Kanjis
 
